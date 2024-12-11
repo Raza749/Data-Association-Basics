@@ -1,0 +1,21 @@
+{
+  "name": "data-association",
+  "version": "1.0.0",
+  "description": "Leaning the data association ",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "JavaScript",
+    "ExpressJS",
+    "Mongoose",
+    "NodeJS"
+  ],
+  "author": "Raza A",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.21.2",
+    "mongoose": "^8.8.4"
+  }
+}
